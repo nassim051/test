@@ -1,4 +1,8 @@
 <head>
 <title>hello</title>
 <body>hello world</body>
+<<<<<<< HEAD
 conflict
+=======
+conflict te3 github
+>>>>>>> 02afa796a85148822c5914f97406d67c00adcd16
